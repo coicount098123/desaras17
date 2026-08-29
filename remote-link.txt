@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patterns-checklist-rosa-barrier.trycloudflare.com/vnc.html
+URL       : https://dans-sodium-scales-hide.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 11:34:50
+Created   : 2026-08-29 18:17:57
 =======================================================
